@@ -3,7 +3,7 @@ package it.be.esercizi.es2;
 import java.util.Scanner;
 
 public class Esercizio2 {
-    Scanner scan = new Scanner(System.in);
+
 
     public void intToString (int num) {
         switch (num) {

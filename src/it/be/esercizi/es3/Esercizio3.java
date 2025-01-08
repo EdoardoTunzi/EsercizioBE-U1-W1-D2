@@ -1,7 +1,9 @@
 package it.be.esercizi.es3;
 
-public class Esercizio3 {
+import java.util.Scanner;
 
+public class Esercizio3 {
+    Scanner scan = new Scanner(System.in);
     public void stringToChar () {
         String testo;
         while (true) {
