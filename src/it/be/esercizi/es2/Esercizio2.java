@@ -7,6 +7,9 @@ public class Esercizio2 {
 
     public void intToString (int num) {
         switch (num) {
+            case 0 :
+                System.out.println("zero");
+                break;
             case 1:
                 System.out.println("one");
                 break;
